@@ -1,2 +1,2 @@
 def kurczaki()
-    print('ziemniaki')
+    print('kurczaki')
